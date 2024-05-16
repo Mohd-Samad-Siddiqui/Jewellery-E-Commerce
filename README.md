@@ -1,1 +1,1 @@
-# Jwellery-E-Commerce
+# Jewellery-E-Commerce
